@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GetLibraryVersions": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Simon\\Downloads\\coreconnect-menudaemon-wclc > libs.txt"
+    }
+  }
+}
